@@ -11,6 +11,7 @@
 }
 
 .name-card__content-right {
+  padding: 80px;
   max-width: 100%;
   display: block;
 }
